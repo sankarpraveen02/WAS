@@ -1,0 +1,2 @@
+https://bitbucket.cicd.metlife.co.jp/scm/was/repo_new.git,repo_new,https://bitbucket.cicd.metlife.co.jp/scm/was/new_repo.git
+https://bitbucket.cicd.metlife.co.jp/scm/was/was_demo_repo.git,was_demo_repo,https://bitbucket.cicd.metlife.co.jp/scm/was/repo_1.git
